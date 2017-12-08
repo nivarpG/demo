@@ -1,1 +1,1 @@
-configuration sample
+--config -file
